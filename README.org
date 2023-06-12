@@ -1,0 +1,10 @@
+* com-on
+
+Utilities for dealing with COM-style interfaces, specifically under windows.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/com-on.git   |
+| commit  | d9349bd  |
+| systems | com-on |
+|---------+-------------------------------------------|
+
