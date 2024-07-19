@@ -4,6 +4,6 @@ Utilities for dealing with COM-style interfaces, specifically under windows.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/com-on.git |
-| commit  | 156252a                                    |
+| commit  | d49214f                                    |
 | systems | com-on                                     |
 |---------+--------------------------------------------|
